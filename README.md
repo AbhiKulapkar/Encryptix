@@ -1,4 +1,4 @@
-Data Science 
+Data Science INTERNSHIP PROJECTS 
 
 This repository contains a collection of my data science projects, where I used various machine learning techniques and Python programming to solve real-world problems.
 
